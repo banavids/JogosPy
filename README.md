@@ -1,4 +1,4 @@
-# Portfolio
+# JogosPy
 ................Instruções................
 
 1. Todos os ficheiros têm que estar na mesma pasta
